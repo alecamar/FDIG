@@ -6,7 +6,9 @@ Repositório da disciplina optativa FDIG do Centro de Ciências da Natureza, cam
 
 **Professor responsável: Alexandre Camargo Martensen**
 
-**Será fornecida no primeiro semestre de 2020.**
+**Será fornecida no primeiro semestre de 2020**
+
+Página da disciplina com maiores informações: https://sites.google.com/view/martensen/doc%C3%AAncia/fdig
 
 **Breve descrição da disciplina**
 
