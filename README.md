@@ -1,14 +1,14 @@
 # FDIG
 
-**FDIG - Ferramentas Digitais para uma Ciência Aberta e com grandes quantidades de dados**
+**FDIG - Ferramentas Digitais para uma Ciência Aberta, reprodutível e com grandes quantidades de dados**
 
-Repositório da disciplina optativa FDIG do Centro de Ciências da Natureza, campus Lagoa do Sino, UFSCar
+Repositório da disciplina optativa FDIG do Centro de Ciências da Natureza, *campus* Lagoa do Sino, UFSCar
 
 **Professor responsável: Alexandre Camargo Martensen**
 
 **Será fornecida no primeiro semestre de 2020**
 
-Página da disciplina com maiores informações: https://sites.google.com/view/martensen/doc%C3%AAncia/fdig
+Página da disciplina: https://sites.google.com/view/martensen/doc%C3%AAncia/fdig
 
 **Breve descrição da disciplina**
 
@@ -75,7 +75,7 @@ Trabalho: Montar um grupo no Mendeley e colocar textos sobre os temas abordados 
 
 **Aula 10** - Presença online (Teórica e Prática)
 
-Assuntos: Como fazer um texto de divulgação científica - super curto, curto, médio e longo.
+Assuntos: Como fazer um texto de divulgação científica - super curto, curto, médio e longo, #tags, mídias sociais, etc
 
 Trabalho: uma msg no twiter, uma mensagem no facebook, um blog post (médio tamanho) sobre o trabalho que estão desenvolvendo na disciplina, usando #FDIG2019, #FDIG, #UFSCAR e #UFSCAR_LS
 
@@ -108,3 +108,11 @@ Assuntos: Apresentação dos projetos
 **Aula 17** - Avaliações e confraternização
 
 Assuntos: Avaliações
+
+**Avaliação**
+
+A avaliação da disciplina será feita da seguinte maneira:
+
+- 20% participação em sala
+- 20% trabalho sobre temas não abordados
+- 60% projeto final
