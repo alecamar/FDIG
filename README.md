@@ -31,7 +31,9 @@ Assuntos:  Ciência aberta, dados abertos, metadados, códigos, erros e acertos 
 
 **Aula 02** - Organização de projetos científicos, uso da linha de comando e aquisição de dados da internet (teórica e prática)
 Assuntos: Como organizar um diretório, sub-diretórios, usar a linha de comando, como baixar dados pela internet de maneira organizada
+
 Trabalho 01: Linha de comando (criar diretorio, mover, copiar, etc - baseada na aula do pessoal do Software Carpentry - http://swcarpentry.github.io/shell-novice/)
+
 Trabalho 02: Baixar dados na internet através de script
 
 **Aula 03** - Aquisição, organização, manipulação e recuperação de informações em bancos de dados (teórica e prática)
@@ -39,50 +41,70 @@ Assuntos:  Como organizar uma tabela de dados de forma *tidy*, ferramentas do *t
 
 **Aula 04** - Desenvolvimento de scripts para organização, análise e geração de figuras e gráficos (teórica e prática)
 Assuntos: R, knitR, Markdown, RMarkdown, "literate programing"
+
 Trabalho: Obtenção de dados na internet, filtragem, análise, geração de figuras e de um relatório de forma reprodutível e através de script.
 
 **Aula 05** - Boas práticas na computação científica (teórica)
 Assuntos:   
 
 **Aula 06** - Controle de versão - git e gitHub (teórica e prática)
+
 Assuntos: git, gitHub, push, pull, fork, clone
+
 Trabalho: Criar um perfil no gitHub, fazer um fork do repositório do curso.
 
 **Aula 07** - Discussão de propostas de projetos
+
 Assuntos: Discussão sobre as idéias de projetos com os alunos e caminhos a serem seguidos de obtenção de dados, análise de dados, apresentação, etc.
+
 Trabalho 1: Ver diversos projetos no gitHub e ver como se escrever um bom README. Selecionar uns 2 ou 3 e postar no página do curso
+
 Trabalho 2: Criar um repositório no gitHub (com README explicando o assunto que será abordado no projeto, e demais informações relevantes)
 
 **Aula 08** - Ferramentas digitais para fomentar a colaboração entre cientistas (teórica e prática)
+
 Assuntos: gitHub, networks
+
 Trabalho: Entrar nos perfis dos colegas, fazer comentários, pull/push com correções, etc. 
 
 **Aula 09** - Mídias sociais para divulgação de trabalhos, colaboração online, discussões científicas (Teórico e Prática)
+
 Assuntos: Twitter, grupos do Mendeley, midias sociais, blogs, sites  
+
 Trabalho: Montar um grupo no Mendeley e colocar textos sobre os temas abordados em sala
 
 **Aula 10** - Presença online (Teórica e Prática)
+
 Assuntos: Como fazer um texto de divulgação científica - super curto, curto, médio e longo.
+
 Trabalho: uma msg no twiter, uma mensagem no facebook, um blog post (médio tamanho) sobre o trabalho que estão desenvolvendo na disciplina, usando #FDIG2019, #FDIG, #UFSCAR e #UFSCAR_LS
 
 **Aula 11** - Discussão andamento de projetos
+
 Assuntos: Avaliar o andamento dos projetos dos alunos
 
 **Aula 12** - Apresentação de temas não abordados (Alunos)
+
 Assuntos: Temas não abordados
+
 Trabalho: Alunos farão uma procura na internet por temas que ainda não foram abordados em sala relacionados a disciplina e farão breve apresentação de 5 a 10 minutos sobre os temas.
 
 **Aula 13** - Projeto
+
 Assuntos: Disponível para os alunos realizarem os projetos
 
 **Aula 14** - Dúvidas e discussão do andamento dos projetos
+
 Assuntos: Disponível para os alunos tirarem dúvidas sobre as análises do projeto
 
 **Aula 15** - Sorteio da ordem de apresentação dos projetos e apresentação dos projetos
+
 Assuntos: Apresentação dos projetos
 
 **Aula 16** - Apresentação dos projetos
+
 Assuntos: Apresentação dos projetos
 
 **Aula 17** - Avaliações e confraternização
+
 Assuntos: Avaliações
