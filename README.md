@@ -27,7 +27,7 @@ A ciência aberta, “Open Lab Notebooks (OLN)”, “pré-prints”, disponibil
 **Cronograma proposto**
 
 **Aula 01** - Apresentação e Introdução aos conteúdos que iremos tratar (teórica)
-Assuntos:  Ciência aberta, dados abertos, metadados, códigos, erros e acertos ao longo do processo de descoberta científica, “pré-prints”, "peer review”, publicação aberta, Categorias de softwares livres e diferentes tipos de licenças
+Assuntos:  Ciência aberta, dados abertos, metadados, códigos, erros e acertos ao longo do processo de descoberta científica, “pré-prints”, "peer review”, publicação aberta, Categorias de softwares livres e diferentes tipos de licenças<p>
 Slides: https://drive.google.com/open?id=1zVDjiZ49_9sy6X08SEPxc2X2ZwN-3WRa
 
 **Aula 02** - Organização de projetos científicos, uso da linha de comando e aquisição de dados da internet (teórica e prática)
