@@ -30,6 +30,7 @@ A ciência aberta, “Open Lab Notebooks (OLN)”, “pré-prints”, disponibil
 Assuntos:  Ciência aberta, dados abertos, metadados, códigos, erros e acertos ao longo do processo de descoberta científica, “pré-prints”, "peer review”, publicação aberta, Categorias de softwares livres e diferentes tipos de licenças
 
 [Slides Aula 01 - Apresentação da disciplina](https://drive.google.com/open?id=1zVDjiZ49_9sy6X08SEPxc2X2ZwN-3WRa)
+
 [Slides Aula 01 - Introdução](https://drive.google.com/open?id=1FnDQqY2Ub1Jmva16RQqfYrUl0reFHIvk)
 
 **Aula 02** - Organização de projetos científicos, uso da linha de comando e aquisição de dados da internet (teórica e prática)
