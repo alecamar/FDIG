@@ -8,7 +8,7 @@ Repositório da disciplina optativa FDIG do Centro de Ciências da Natureza, *ca
 
 **Será fornecida no primeiro semestre de 2020**
 
-Página da disciplina: https://sites.google.com/view/martensen/doc%C3%AAncia/fdig
+Página da disciplina: http://www.needs.ufscar.br/docencia/fdig
 
 **Breve descrição da disciplina**
 
