@@ -9,7 +9,7 @@ body {
 Aula 02 - Introdução aos temas que serão abordados na disciplina
 ========================================================
 author: Alexandre Camargo Martensen
-date: 2019-07-02 00:34:29
+date: 2019-07-02 01:13:07
 autosize: true
 
 
@@ -132,22 +132,22 @@ Reprodutível
 </br>
 **O método científico preconiza que a ciência seja reprodutível!**
 
-Isso significa que se um outro grupo de pesquisa pegar e fazer o mesmo experimento, seguindo exatamente os mesmos métodos descritos e empregados no trabalho, chegará nos mesmos resultados.
+Isso significa que se um outro grupo de pesquisa pegar e fazer o mesmo experimento, seguindo exatamente os mesmos métodos descritos e empregados no trabalho, chegará nos mesmos resultados
 
-Atualmente, com a ciência largamente sendo feita em computadores... isso significa que os dados e os códigos tem que ser disponíveis e organizados de forma que os resultados (incluindo figuras) possam ser obtidos novamente.
+Atualmente, com a ciência largamente sendo feita em computadores... isso significa que os dados e os códigos tem que ser disponíveis e organizados de forma que os resultados (incluindo figuras) possam ser obtidos novamente
 
-A importância dessa reprodutividade é largamente reconhecida atualmente, porém, não é largamente aplicada, em grande parte pq os cientistas não dominam as ferramentas para tal.
+A importância dessa reprodutividade é largamente reconhecida atualmente, porém, não é largamente aplicada, em grande parte pq os cientistas não dominam as ferramentas para tal
 
 Este é exatamente o foco deste curso!
 
-Adaptado de Karl Broman
+*Adaptado de Karl Broman*
 
 Por quê?
 ========================================================
 </br>
-- Economiza tempo... em geral, temos que fazer uma mesma coisa várias vezes, e repetí-las fica mais facil quando temos os princípios da reprodutibilidade atendidos.
+- Economiza tempo... em geral, temos que fazer uma mesma coisa várias vezes, e repetí-las fica mais facil quando temos os princípios da reprodutibilidade atendidos
 
-- Pode ser aplicado em outras situaçõe smais facilmente, aumentando o impacto. Pessoas podem pegar os seus códigos ou os seus dados e fazer novas análises.
+- Pode ser aplicado em outras situações mais facilmente, aumentando o impacto. Pessoas podem pegar os seus códigos ou os seus dados e fazer novas análises
 
 - Aumentam as chances de você estar certo...
 
@@ -208,6 +208,8 @@ Ciclo científico tradicional / Método científico
 </div>
 
 
+[//]: # (https://www.thevenusproject.com/multimedia/the-scientific-method/)
+
 Mudança na forma de se fazer ciência
 =======================================================
 <div align="center">
@@ -233,6 +235,8 @@ Mudança na forma de se fazer ciência - Hipóteses
 **Bootcamps**
 
 **Design Thinking**
+
+**blogs, discussões na internet, twitter...**
 
 
 Mudança na forma de se fazer ciência - Hipóteses
@@ -317,7 +321,7 @@ Mudança na forma de se fazer ciência - Análises
 =======================================================
 
 <div align="center">
-<img src="carl_boettiger_Nature.png" width=1000 height=1000>
+<img src="carl_boettiger_Nature.png" width=1200 height=1000>
 </div>
 
 
@@ -325,8 +329,10 @@ Mudança na forma de se fazer ciência - Análises
 =======================================================
 
 <div align="center">
-<img src="carl_boettiger_site.png" width=1200 height=1000>
+<img src="carl_boettiger_site.png" width=1200 height=800>
 </div>
+
+[//]: #(https://www.carlboettiger.info/)
 
 Mudança na forma de se fazer ciência - Análises
 =======================================================
@@ -334,6 +340,8 @@ Mudança na forma de se fazer ciência - Análises
 <div align="center">
 <img src="boettiger_labNotebook.png" width=1200 height=1000>
 </div>
+
+[//]: #(https://www.carlboettiger.info/lab-notebook)
 
 Mudança na forma de se fazer ciência - Análises
 =======================================================
@@ -349,6 +357,90 @@ Mudança na forma de se fazer ciência - Análises
 <img src="gitHubCarl.png" width=1200 height=1000>
 </div>
 
+
+Mudança na forma de se fazer ciência - Análises
+=======================================================
+
+<div align="center">
+<img src="domino-workflow.jpg" width=600 height=600>
+</div>
+
+- gitHub
+- Workflow
+- Código
+
+
+***
+
+<div align="center">
+<img src="gitHub_alecamar.png" width=600 height=600>
+</div>
+
+
+[//]: # (https://www.kdnuggets.com/2014/06/domino-platform-modern-data-analysis.html)
+
+
+Mudança na forma de se fazer ciência - Redação
+=======================================================
+<p>
+- gitHub
+- Dropbox/Papers
+- Markdown
+- Word
+- Google Docs
+- LaTex
+- Authorea
+
+<div align="center">
+<img src="authorea.png" width=600 height=600>
+</div>
+
+***
+
+<div align="center">
+<img src="google_docs.png" width=700 height=800>
+</div>
+
+
+Mudança na forma de se fazer ciência - Pre-print
+=======================================================
+<p>
+Versão de um artigo científico que precede a publicação “peer-reviewed”
+<p>
+
+- ArXiv
+- bioRxiv
+- SocArXiv
+- PaleorXiv
+
+<div align="center">
+<img src="bioRXiv.png" width=700 height=800>
+</div>
+
+
+***
+
+<div align="center">
+<img src="arXiv.png" width=700 height=800>
+</div>
+
+Mudança na forma de se fazer ciência - Revisão
+=======================================================
+
+- Anônima
+- Duplo cego
+- Publons 
+- Revisões do preprint
+- Open
+
+<div align="center">
+<img src="publons_acm.png" width=700 height=400>
+</div>
+
+Mudança na forma de se fazer ciência - Revisão
+=======================================================
+
+
 Long Live Science
 =======================================================
 
@@ -356,12 +448,30 @@ Long Live Science
 <img src="science_is_Dead_long_live_science.png" width=1200 height=1000>
 </div>
 
+Peter Dear, "Science Is Dead; Long Live Science," Osiris 27 (2012): 37-55.
+**https://doi.org/10.1086/667822**
+
 
 Mais informações
 =======================================================
+<p>
+<p>
 
-<iframe src="http://www.needs.ufscar.br/" scrolling= "yes">
-</iframe>
+http://www.needs.ufscar.br/
+
+
+<p>
+<p>
+
+https://alecamar.github.io/FDIG/
+
+<p>
+<p>
+
+https://github.com/alecamar/FDIG
+
+
+
 
 
 
