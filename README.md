@@ -8,7 +8,7 @@ Repositório da disciplina optativa FDIG do Centro de Ciências da Natureza, *ca
 
 **Será fornecida no primeiro semestre de 2020**
 
-Página da disciplina: https://sites.google.com/view/martensen/doc%C3%AAncia/fdig
+Página da disciplina: http://www.needs.ufscar.br/docencia/fdig
 
 **Breve descrição da disciplina**
 
@@ -28,6 +28,10 @@ A ciência aberta, “Open Lab Notebooks (OLN)”, “pré-prints”, disponibil
 
 **Aula 01** - Apresentação e Introdução aos conteúdos que iremos tratar (teórica)
 Assuntos:  Ciência aberta, dados abertos, metadados, códigos, erros e acertos ao longo do processo de descoberta científica, “pré-prints”, "peer review”, publicação aberta, Categorias de softwares livres e diferentes tipos de licenças
+
+[Slides Aula 01 - Apresentação da disciplina](https://drive.google.com/open?id=1zVDjiZ49_9sy6X08SEPxc2X2ZwN-3WRa)
+
+[Slides Aula 01 - Introdução](https://drive.google.com/open?id=1FnDQqY2Ub1Jmva16RQqfYrUl0reFHIvk)
 
 **Aula 02** - Organização de projetos científicos, uso da linha de comando e aquisição de dados da internet (teórica e prática)
 Assuntos: Como organizar um diretório, sub-diretórios, usar a linha de comando, como baixar dados pela internet de maneira organizada
