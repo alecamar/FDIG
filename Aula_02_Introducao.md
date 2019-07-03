@@ -9,7 +9,7 @@ body {
 Aula 02 - Introdução aos temas que serão abordados na disciplina
 ========================================================
 author: Alexandre Camargo Martensen
-date: 2019-07-02 01:13:07
+date: 2019-07-03 05:35:43
 autosize: true
 
 
@@ -439,6 +439,117 @@ Mudança na forma de se fazer ciência - Revisão
 
 Mudança na forma de se fazer ciência - Revisão
 =======================================================
+
+- Open reviews
+
+<div align="center">
+<img src="f1000.png" width=700 height=400>
+</div>
+
+***
+
+<div align="center">
+<img src="reviewF1000.png" width=700 height=400>
+</div>
+
+
+Mudança na forma de se fazer ciência - Revisão
+=======================================================
+
+- Mudanças na forma de se avaliar o aceite (critérios para publicação)
+
+<div align="center">
+<img src="plos.png" width=700 height=400>
+</div>
+
+
+Mudança na forma de se fazer ciência - Debate
+=======================================================
+<p>
+- Comentários
+<p>
+<div align="center">
+<img src="comments_F1000.png" width=1000 height=700>
+</div>
+
+Mudança na forma de se fazer ciência - Debate
+=======================================================
+<p>
+- Comentários
+<p>
+<div align="center">
+<img src="comments_plos.png" width=1000 height=700>
+</div>
+
+***
+
+<div align="center">
+<img src="reply_comments_Plos.png" width=1000 height=700>
+</div>
+
+Mudança na forma de se fazer ciência - Acesso
+=======================================================
+<p>
+- Tipos de acesso aberto
+<p>
+<div align="center">
+<img src="types_open_access.png" width=1000 height=700>
+</div>
+
+Mudança na forma de se fazer ciência - Acesso
+=======================================================
+<p>
+- Tipos de acesso aberto
+<p>
+- Gold (pago OA)
+- Diamond (gratuito OA)
+- Green (aberto em páginas pessoais/embargo)
+
+- Outros
+
+***
+
+<div align="right">
+<img src="open_Access_logo.png" width=400 height=700>
+</div>
+
+Mudança na forma de se fazer ciência - tipos de publicação
+=======================================================
+
+<div align="center">
+<img src="publicacoes_novas.png" width=1900 height= 1000>
+</div>
+
+Mudança na forma de se fazer ciência - tipos de publicação
+=======================================================
+<p>
+<div align="center">
+<img src="journal_dead_01.png" width=1900 height= 1000>
+</div>
+
+***
+<p>
+<div align="center">
+<img src="journal_dead_02.png" width=1900 height= 1000>
+</div>
+
+
+Mudança na forma de se fazer ciência - tipos de publicação
+=======================================================
+
+“...the basic means of communicating scientific results hasn’t changed for 400 years. Papers may be posted online, but they’re still text and pictures on a page.”
+
+
+<video width="1000" height="700" controls>
+  <source src="SciencePapersFlames-New(1).mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+[//]: #https://cdn.theatlantic.com/assets/media/video/upload/SciencePaperFlames-New.mp4
+
+**The scientific paper is obsolete - here is what is next**
+https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/
 
 
 Long Live Science
