@@ -31,7 +31,7 @@ Assuntos:  Ciência aberta, dados abertos, metadados, códigos, erros e acertos 
 
 [Slides Aula 01 - Apresentação da disciplina](https://drive.google.com/open?id=1zVDjiZ49_9sy6X08SEPxc2X2ZwN-3WRa)
 
-[Slides Aula 01 - Introdução](https://drive.google.com/open?id=1FnDQqY2Ub1Jmva16RQqfYrUl0reFHIvk)
+[Slides Aula 01 - Introdução](https://drive.google.com/open?id=1j9TRpokOyhIVXuhXbUfsWk3mS0k6a9RZ)
 
 **Aula 02** - Organização de projetos científicos, uso da linha de comando e aquisição de dados da internet (teórica e prática)
 Assuntos: Como organizar um diretório, sub-diretórios, usar a linha de comando, como baixar dados pela internet de maneira organizada
