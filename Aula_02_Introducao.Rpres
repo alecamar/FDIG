@@ -316,6 +316,8 @@ Mudança na forma de se fazer ciência - Dados
 - Apresentar todas as informações necessárias para “obtê-los” novamente
 - Ciclo de dados
 - Curadoria de dados
+- *Big Data*
+- Sensores remotos ("audio recorders", "cameras trap", "metagenomica", "eDNA"), aquisição passiva...
 
 Mudança na forma de se fazer ciência - Análises
 =======================================================
@@ -439,15 +441,15 @@ Mudança na forma de se fazer ciência - Revisão
 
 Mudança na forma de se fazer ciência - Revisão
 =======================================================
-
+<p>
 - Open reviews
-
+<p>
 <div align="center">
 <img src="f1000.png" width=700 height=400>
 </div>
 
 ***
-
+<p>
 <div align="center">
 <img src="reviewF1000.png" width=700 height=400>
 </div>
@@ -517,7 +519,7 @@ Mudança na forma de se fazer ciência - tipos de publicação
 =======================================================
 
 <div align="center">
-<img src="publicacoes_novas.png" width=1900 height= 1000>
+<img src="publicacoes_novas.png" width=1900 height= 800>
 </div>
 
 Mudança na forma de se fazer ciência - tipos de publicação
@@ -550,6 +552,109 @@ Mudança na forma de se fazer ciência - tipos de publicação
 
 **The scientific paper is obsolete - here is what is next**
 https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/
+
+[//]: # Tah com problema
+
+Mudança na forma de se fazer ciência - tipos de publicação
+=======================================================
+
+Bibliotecas são feitas para se congelar...
+
+<p>
+<div align="center">
+<img src="E665TT.png" width=1200 height= 1000>
+</div>
+
+Mudança na forma de se fazer ciência - tipos de publicação
+=======================================================
+
+Bibliotecas digitais são congeladas também...
+<p>
+PDFs são travados
+<p>
+<div align="center">
+<img src="defrosting.png" width=1200 height= 900>
+</div>
+
+Bibliotecas digitais são travadas também
+=======================================================
+<p>
+<p>
+</br>
+"Perhaps the **paper** itself **is to blame**. Scientific methods evolve now at the **speed of software**; the skill most in demand among physicists, biologists, chemists, geologists, even anthropologists and research psychologists, is facility with programming languages and “data science” packages."
+
+*https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/*
+
+Tornando as bibliotecas digitais dinâmicas
+=======================================================
+
+- ResearchGate
+    - Recomendações
+    - Perguntas e respostas
+    - Grupos de discussão
+- F1000
+    - Revisões
+    - Indicações
+- Science/Nature/Plos outros
+    - Comentários
+- Life figures na Nature
+- Wiki like papers
+- Mendeley
+    - Grupos de discussão
+- ResearchGate
+- Academia
+
+
+Tornando as bibliotecas digitais dinâmicas
+=======================================================
+
+<p>
+<div align="center">
+<img src="mendeley.png" width=1200 height= 900>
+</div>
+
+Encontrando, armazenando, organizando e   recuperando a literatura
+=======================================================
+
+- Google
+- Mendeley
+- RSS
+- ResearchGate
+
+**Dificuldades:**
+
+- Baixar/catalogar tds publicações determinado tema ex. “Habitat Fragmentation & Birds”
+- Baixar/catalogar tds publicações que um determinado artigo usa (CiteULike)
+- Baixar/catalogar todas as publicações de um determinado autor
+- ‘‘wisdom of crowds’’	
+    - Readship/co-readship (algumas ferramentas)
+    - Co-citações
+    - Recomendações
+
+- Identificadores (PMID, DOI, ISBN, etc)
+- Identificadores de autores (ORCID, researcherID, CrossRef, OpenID)
+- Metadados (RIS, BibTex, etc)
+- Semantic Web
+
+
+Créditos pelo trabalho
+======================================================
+
+- Bancos de dados
+- Código/scripts
+- Redação (artigos estão definindo o que cada um fez)
+- Publicação não é o fim…
+- Revisão, comentários, dados extra, *replies*, append numa forma de “wiki”, dynamic notebooks, *kudos*...
+
+Comunicação no centro do processo
+======================================================
+<br>
+- Comunicação científica fará/faz parte do processo, não é o fim
+- Crédito pela sua atuação na “comunidade”, comentar, responder perguntas
+- Novas ferramentas
+- Novo workflow
+- Novas formas de comunicação, youtube, whatsapp...
+- Ciência cidadã (Citizen Science)
 
 
 Long Live Science
