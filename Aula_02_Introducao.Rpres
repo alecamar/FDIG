@@ -2,6 +2,11 @@
 body {
     overflow: scroll;
 }
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> b1b78e0468f624eb540e13a46705228f9e376272
 </style>
 
 Aula 02 - Introdução aos temas que serão abordados na disciplina
@@ -440,7 +445,10 @@ Mudança na forma de se fazer ciência - Revisão
 Mudança na forma de se fazer ciência - Revisão
 =======================================================
 <p>
+<<<<<<< HEAD
 <p>
+=======
+>>>>>>> b1b78e0468f624eb540e13a46705228f9e376272
 - Open reviews
 <p>
 <div align="center">

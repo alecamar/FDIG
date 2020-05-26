@@ -9,7 +9,11 @@ body {
 Aula 02 - Introdução aos temas que serão abordados na disciplina
 ========================================================
 author: Alexandre Camargo Martensen
+<<<<<<< HEAD
 date: 2019-07-08 16:12:34
+=======
+date: 2019-07-08 16:07:17
+>>>>>>> b1b78e0468f624eb540e13a46705228f9e376272
 autosize: true
 
 
@@ -442,7 +446,10 @@ Mudança na forma de se fazer ciência - Revisão
 Mudança na forma de se fazer ciência - Revisão
 =======================================================
 <p>
+<<<<<<< HEAD
 <p>
+=======
+>>>>>>> b1b78e0468f624eb540e13a46705228f9e376272
 - Open reviews
 <p>
 <div align="center">
