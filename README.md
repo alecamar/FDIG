@@ -36,6 +36,8 @@ Assuntos:  Ciência aberta, dados abertos, metadados, códigos, erros e acertos 
 **Aula 02** - Organização de projetos científicos, uso da linha de comando e aquisição de dados da internet (teórica e prática)
 Assuntos: Como organizar um diretório, sub-diretórios, usar a linha de comando, como baixar dados pela internet de maneira organizada
 
+[Slides Aula 02 - Organização](https://github.com/alecamar/FDIG/blob/master/Aula_02_Organizacao.html)
+
 Trabalho 01: Linha de comando (criar diretorio, mover, copiar, etc - baseada na aula do pessoal do Software Carpentry - http://swcarpentry.github.io/shell-novice/)
 
 Trabalho 02: Baixar dados na internet através de script
