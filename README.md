@@ -6,7 +6,7 @@ Repositório da disciplina optativa FDIG do Centro de Ciências da Natureza, *ca
 
 **Professor responsável: Alexandre Camargo Martensen**
 
-**Será fornecida no primeiro semestre de 2020**
+**Será fornecida no primeiro semestre de 2020** Devido a pandemia do COVID-19, esse curso foi adiado e não tem ainda data para ser ministrado.
 
 Página da disciplina: http://www.needs.ufscar.br/docencia/fdig
 
