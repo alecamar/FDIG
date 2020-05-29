@@ -1,0 +1,161 @@
+<style>
+body {
+    overflow: scroll;
+}
+</style>
+
+Aula_02_Organizacao
+========================================================
+author: Alexandre Camargo Martensen
+date: `r Sys.time()`
+autosize: true
+
+Aula baseada em...
+========================================================
+<p>
+
+- **Como eu organizo meus trabalhos**, que foi baseado no formato proposto pelo Carl Boettinger [research workflow] (https://www.carlboettiger.info/2012/05/06/research-workflow.html)
+<p>
+Que por sua vez foi baseado no proposto por
+<p>
+[Temple Lang and Gentleman](https://www.researchgate.net/publication/40823095_Statistical_Analyses_and_Reproducible_Research/link/0deec5356feeec36e2000000/download) - Research Compendium
+<p>
+E que foi sistematizado em:
+<p>
+[Ben Marwick, Carl Boettinger e Lincoln Mullen 2008](https://www.tandfonline.com/doi/abs/10.1080/00031305.2017.1375986?journalCode=utas20)
+
+Outro resumo bem similar:
+[Steps toward reproducible research - Karl Broman](https://kbroman.org/steps2rr/)
+
+Vamos pegar as noções básicas e adaptar um sistema próprio
+
+Como eu organizo meus projetos - 1
+========================================================
+
+Tudo dentro do mesmo diretório
+
+Por exemplo:
+
+~/iniciacao_cientifica
+
+Dai eu uso um diretório para os dados brutos que eu trato como "read only". Essa pasta via de regra tem um README file que junta os metadados.
+
+~/iniciacao_cientifica/dados
+
+Toda vez que eu trato estes dados brutos e isto é **sempre através de código** eu salvo os dados em uma outra pasta chamada dados_use
+
+~/iniciacao_cientifica/dados_use
+
+É desta pasta que eu vou usar o banco de dados, mantendo a pasta *dados* com o conjunto de dados original e bruto sempre inalterada.
+
+
+Como eu organizo meus projetos - 2
+========================================================
+
+Como todas as manipulações dos dados são feitas através de script, seja para limpeza dos dados, seja para as análises de dados, uma das pastas que tenho sempre é a R_scripts
+
+~/iniciacao_cientifica/Rscripts
+
+Quando os scripts ficam longos de mais, ou são coisas que eu tenho que repetir várias vezes eu transformo estes scripts em funções (*.R) que ficam na pasta R_functions
+
+~/iniciacao_cientifica/Rfunctions
+
+Todas as figuras são geradas através de scripts, e desta maneira, podem ser apagadas e geradas novamente. Essas figuras vão para uma pasta  caso eu precise de uma figura rápida em algum momento. Também podem ser salvas no figshare
+
+~/iniciacao_cientifica/figs
+
+
+Como eu organizo meus projetos - 3
+========================================================
+
+Eu trabalho, via de regra, dentro do conceito de "Literate programming" e costumeiramente uso o knitr, o RMarkdown e o R para isso. Desta maneira uma das pastas que eu tenho é chamada de vignette, onde ficam os códigos de *.Rmd. R Notebooks também são uma ótima opção para análises mais longas.
+
+~/iniciacao_cientifica/vignettes
+
+A idéia é que cada arquivo vire um capítulo de um caderno, e que esses capítulos juntos vão contado detalhadamente a história do trabalho. Desde baixar os dados > filtrar > analises exploratórias > análises > redação do trabalho > geração de figuras...
+
+Caso os códigos gerem algum resultado como cenários, ou algum outro "output" eu também uso uma pasta *output*. Isso pq as vezes essa cenarização é pesada, e não vale a pena ficar rodando novamente, então eles ficam salvos nessa pasta.
+
+~/iniciacao_cientifica/output
+
+Eu ainda não consegui fazer a migração total para fazer todo o artigo no Rmd, então, eu permaneço com uma pasta docs. As principais razões disso ocorrer são: i. as citações e ii. os colaboradores que preferem trabalhar no word/google docs.
+
+~/iniciacao_cientifica/docs
+
+E outra que inclui pequenas apresentações em slides ou pdfs (estes geralmente gerados por Rmd). Assim, se alguem me pede algo rápido, em geral tá aí.
+
+~/iniciacao_cientifica/apresentacoes
+
+Como eu organizo meus projetos - 4
+========================================================
+
+Outras pastas e arquivos
+
+~/iniciacao_cientifica/src  - Quando preciso de algum outro programa  para rodar dentro do R eles ficam nesta pasta ("source")
+
+<p>
+
+Eu sempre tenho um arquivo **README** geralmente em md (md = Markdown, mas pode ser html, txt... preferencialmente .txt ou .md), que explica o que é o trabalho, o que eu tenho em cada uma das pastas e etc.
+
+Assim, qualquer um que pegar o diretório todo, sabe exatamente o que é cada coisa e pode trabalhar (se achar) no material rapidamente
+
+
+Como eu organizo meus projetos - 5
+========================================================
+
+Alguns avanços potenciais:
+
+- Ter uma pasta bib, contendo as referências bibliográficas da minha biblioteca (exportado do Mendeley), atualmente útil para citação em *.Rmd
+<p>Possivelmente isso vai se tornar mais fácil num futuro próximo
+
+- Neste caso, a pasta /docs deixaria de existir e este resultado do trabalho iria para a pasta *vignette*
+
+Algumas questões importantes - 1
+========================================================
+
+- **Nunca** utilize acentos (`, ~, ' , ^ ...), ç, espaço dentro de nomes de pastas ou arquivos. Deixe sem acentuação, substitua o ç por c e use o _ para separar palavras.
+
+Ou seja:
+
+~/iniciacao_cientifica/  e não  ~/iniciação científica/
+
+
+~/iniciacao_cientifica/analises e não  ~/iniciacao_cientifica/análises
+
+Algumas pessoas usam a alternativa "camel" para nomear (corcovas, alterando letras maiúsculas com minúsculas), e eu uso geralmente esta alternativa para variáveis. Ex. IniciacaoCientifica e nao iniciacao_cientifica
+
+A questão de letras maiúsculas e minúsculas é relevante, pq caso você padronize, fica muito mais fácil de vc lembrar quando precisar (eh sempre com letra minúscula por exemplo)
+
+
+Algumas questões importantes - 2
+========================================================
+
+**Como nomear arquivos**
+
+Lembre-se, você não é o único aluno do seu orientador! Então mandar um arquivo *iniciacao_cientifica.docx* pode causar problema! E você não quer causar problema para o seu orientador, não é?!?!?!
+
+Então a recomendação é em geral sobrenome_oq_ano_mês_dia.docx
+
+Exemplo: Martensen_relatorio_2019_09_01.docx
+
+Organizando ano_mês_dia, você consegue organizar facilmente por ordem alfabética e sempre vai estar na ordem
+
+Evitem nomear arquivos com *_final*,   *_ultimo*,   *quando_estava_na_praia*... 
+
+Caso precise numerar arquivos, use arquivo_01 ao invés de arquivo_1. Quando você chegar ao 10o você vai manter a consistência do tamanho da variavel arquivo_01.txt é do mesmo tamanho que arquivo_10.txt e arquivo_99.txt.
+
+**Use controle de versões** - iremos ver isso na aula 06
+
+Geracao automatizada de diretorios
+========================================================
+
+Código no gitHub
+```{r}
+#install.packages("devtools")
+#library(devtools)
+#install_github("alecamar/ACMfunctions")
+#library(ACMfunctions)
+#Cria_diretorio("nome que vc quer dar para o diretório")
+```
+
+
