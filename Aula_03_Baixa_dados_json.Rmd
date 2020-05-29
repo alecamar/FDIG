@@ -1,0 +1,84 @@
+---
+title: "Tutorial_Aula_03a_Baixa_dados"
+author: "ACMartensen"
+date: "`r Sys.time()`"
+output: 
+  html_document:
+  keep_md: true
+---
+
+Nessa etapa iremos baixar dados no formato **json** - JavaScript Object Notation. Para saber mais sobre o formato [json](https://pt.wikipedia.org/wiki/JSON "JSON na Wikipedia")
+
+Instalar pacotes necessários
+```{r, "install packages"}
+list.of.packages <- c("RJSONIO", "dplyr")
+
+new.packages <- list.of.packages[!(list.of.packages %in% installed.packages()[,"Package"])]
+if(length(new.packages)) 
+
+install.packages(new.packages)
+```
+
+Carrega bibliotecas
+```{r}
+library(RJSONIO)
+library(dplyr)
+```
+
+Baixa a lista de arquivos do site do governo
+```{r}
+b<-RJSONIO::fromJSON("https://i3gov.planejamento.gov.br/dadosgov/json/serie/indice.json")
+```
+
+Organiza a lista de arquivos 
+```{r}
+df= as.data.frame(t(as.data.frame(b)))
+```
+
+Seleciona apenas os arquivos, não os grandes grupos
+```{r}
+ff.in<-dplyr::filter(df, grepl("http",href))
+```
+
+Seleciona as linhas que tenham IBAMA
+```{r}
+ff.ibama<-dplyr::filter(ff.in, grepl("IBAMA", nome))
+```
+
+Vamos selecionar agora os autos de infração nas UCs e fora delas
+```{r}
+ff.ucs<-dplyr::filter(ff.in, grepl("Número de infrações em Unidades de conservação expedidas pelo IBAMA", nome))
+
+
+ff.inf<-dplyr::filter(ff.in, grepl("Número de infrações de Controle ambiental expedidas pelo IBAMA", nome))
+
+
+```
+
+Vamos baixar agora esses bancos de dados
+```{r}
+autos.ucs<-RJSONIO::fromJSON(as.character(droplevels(ff.ucs[,2])))
+
+autos.inf<-RJSONIO::fromJSON(as.character(droplevels(ff.inf[,2])))
+```
+
+Como está organizado o banco de dados de infração dentro de UCs?
+```{r}
+str(autos.ucs, max.level = 2)
+```
+
+E o outro banco de dados de infrações que baixamos?
+```{r}
+str(autos.inf, max.level = 2)
+inf<-data.frame(t(data.frame(matrix(unlist(autos.inf$serie_historica$dados),nrow=3))))
+```
+
+Visualizando os dados
+```{r, fig.align='center'}
+plot(as.character(inf$X1), as.numeric(as.character(inf$X3)), ylab="Anos", xlab="Número de autos de infração", main="Número de autos de infração do ibama")
+```
+
+Esse foi um exemplo simples, apenas para vocês verem que é possível baixar dados no formato **json**.
+
+
+
