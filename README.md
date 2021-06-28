@@ -1,12 +1,12 @@
 # FDIG
 
-**FDIG - Ferramentas Digitais para uma Ciência Aberta, reprodutível e com grandes quantidades de dados**
+**FDIG - Ferramentas Digitais para uma Ciência Aberta, reproduzível e com grandes quantidades de dados**
 
 Repositório da disciplina optativa FDIG do Centro de Ciências da Natureza, *campus* Lagoa do Sino, UFSCar
 
 **Professor responsável: Alexandre Camargo Martensen**
 
-**Será fornecida no primeiro semestre de 2020** Devido a pandemia do COVID-19, esse curso foi adiado e não tem ainda data para ser ministrado.
+**Será fornecida no primeiro semestre de 2020** Devido a pandemia do COVID-19, esse curso foi adiado e será ministrado no segundo semestre letivo de 2021.
 
 Página da disciplina: http://www.needs.ufscar.br/docencia/fdig
 
@@ -33,6 +33,8 @@ Assuntos:  Ciência aberta, dados abertos, metadados, códigos, erros e acertos 
 
 [Slides Aula 01 - Introdução](https://github.com/alecamar/FDIG/blob/master/Aula_02_Introducao.html)
 
+Introdução ao RStudio e RMarkdown (Rmd): https://youtu.be/vjFmEGkpfFs
+
 **Aula 02** - Organização de projetos científicos, uso da linha de comando e aquisição de dados da internet (teórica e prática)
 Assuntos: Como organizar um diretório, sub-diretórios, usar a linha de comando, como baixar dados pela internet de maneira organizada
 
@@ -42,16 +44,33 @@ Trabalho 01: Linha de comando (criar diretorio, mover, copiar, etc - baseada na 
 
 Trabalho 02: Baixar dados na internet através de script
 
-**Aula 03** - Aquisição, organização, manipulação e recuperação de informações em bancos de dados (teórica e prática)
-Assuntos:  Como organizar uma tabela de dados de forma *tidy*, ferramentas do *tidyverse* para manipulação de dados - http://hadley.nz/, SQL
+**Aula 03** - Aquisição, organização, manipulação, arquivamento, disponibilização e recuperação de informações em bancos de dados (teórica e prática)
+Assuntos:  Como organizar uma tabela de dados em forma *tidy*, ferramentas do *tidyverse* para manipulação de dados - http://hadley.nz/, SQL, Bancos de dados NoSQL, formatos para disponibilização de dados,
+
+Leituras: 
+A - Martone 2015 - https://doi.org/10.1093/biosci/biv095 e links
+B - Austin1 et al. 2017 - 10.1007/s00799-016-0178-2
+C - 
+D - 
+E - 
+F - 
+G - 
 
 **Aula 04** - Desenvolvimento de scripts para organização, análise e geração de figuras e gráficos (teórica e prática)
 Assuntos: R, knitR, Markdown, RMarkdown, "literate programing"
 
-Trabalho: Obtenção de dados na internet, filtragem, análise, geração de figuras e de um relatório de forma reprodutível e através de script.
+Trabalho: Obtenção de dados na internet, filtragem, análise, geração de figuras e de um relatório de forma reproduzível e através de script.
 
 **Aula 05** - Boas práticas na computação científica (teórica)
 Assuntos:   
+
+Leituras: 
+A - Wilson et al. 2014: https://doi.org/10.1371/journal.pbio.1001745
+B - Wilson et al. 2017: https://doi.org/10.1371/journal.pcbi.1005510
+C - Shade & Teal 2015: https://doi.org/10.1371/journal.pbio.1002303
+D - Osborne et al. 2014: https://doi.org/10.1371/journal.pcbi.1003506
+
+
 
 **Aula 06** - Controle de versão - git e gitHub (teórica e prática)
 
