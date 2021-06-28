@@ -48,15 +48,7 @@ Trabalho 02: Baixar dados na internet através de script
 Assuntos:  Como organizar uma tabela de dados em forma *tidy*, ferramentas do *tidyverse* para manipulação de dados - http://hadley.nz/, SQL, Bancos de dados NoSQL, formatos para disponibilização de dados,
 
 Leituras: 
-A - Martone 2015 - https://doi.org/10.1093/biosci/biv095 e links
-
-B - Austin1 et al. 2017 - 10.1007/s00799-016-0178-2
-
-C - 
-D - 
-E - 
-F - 
-G - 
+A - Martone 2015 - https://doi.org/10.1093/biosci/biv095 e links; B - Austin1 et al. 2017 - 10.1007/s00799-016-0178-2; C - ; D - ; E - ; F - ; G - 
 
 **Aula 04** - Desenvolvimento de scripts para organização, análise e geração de figuras e gráficos (teórica e prática)
 Assuntos: R, knitR, Markdown, RMarkdown, "literate programing"
@@ -64,7 +56,7 @@ Assuntos: R, knitR, Markdown, RMarkdown, "literate programing"
 Trabalho: Obtenção de dados na internet, filtragem, análise, geração de figuras e de um relatório de forma reproduzível e através de script.
 
 **Aula 05** - Boas práticas na computação científica (teórica)
-Assuntos:   
+Assuntos: Data management, Digital Lab Notebooks (Jupyter, Rmd, etc), Workflow, controle de versão, etc.  
 
 Leituras: 
 A - Wilson et al. 2014: https://doi.org/10.1371/journal.pbio.1001745
@@ -104,7 +96,7 @@ Trabalho: Montar um grupo no Mendeley e colocar textos sobre os temas abordados 
 
 Assuntos: Como fazer um texto de divulgação científica - super curto, curto, médio e longo, #tags, mídias sociais, etc
 
-Trabalho: uma msg no twiter, uma mensagem no facebook, um blog post (médio tamanho) sobre o trabalho que estão desenvolvendo na disciplina, usando #FDIG2019, #FDIG, #UFSCAR e #UFSCAR_LS
+Trabalho: uma msg no twiter, uma mensagem no facebook, um blog post (médio tamanho) sobre o trabalho que estão desenvolvendo na disciplina, usando #FDIG2021, #FDIG, #UFSCAR e #UFSCAR_LS, #PPGCAm
 
 **Aula 11** - Discussão andamento de projetos
 
