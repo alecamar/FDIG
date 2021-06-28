@@ -48,7 +48,7 @@ Trabalho 02: Baixar dados na internet através de script
 Assuntos:  Como organizar uma tabela de dados em forma *tidy*, ferramentas do *tidyverse* para manipulação de dados - http://hadley.nz/, SQL, Bancos de dados NoSQL, formatos para disponibilização de dados,
 
 Leituras: 
-A - Martone 2015 - https://doi.org/10.1093/biosci/biv095 e links; B - Austin1 et al. 2017 - 10.1007/s00799-016-0178-2; C - ; D - ; E - ; F - ; G - 
+A - Martone 2015 - https://doi.org/10.1093/biosci/biv095 e links; B - Austin1 et al. 2017 - 10.1007/s00799-016-0178-2;
 
 **Aula 04** - Desenvolvimento de scripts para organização, análise e geração de figuras e gráficos (teórica e prática)
 Assuntos: R, knitR, Markdown, RMarkdown, "literate programing"
@@ -60,7 +60,7 @@ Assuntos: Data management, Digital Lab Notebooks (Jupyter, Rmd, etc), Workflow, 
 
 Leituras: 
 A - Wilson et al. 2014: https://doi.org/10.1371/journal.pbio.1001745; B - Wilson et al. 2017: https://doi.org/10.1371/journal.pcbi.1005510; 
-C - Shade & Teal 2015: https://doi.org/10.1371/journal.pbio.1002303; D - Osborne et al. 2014: https://doi.org/10.1371/journal.pcbi.1003506
+C - Shade & Teal 2015: https://doi.org/10.1371/journal.pbio.1002303; D - Osborne et al. 2014: https://doi.org/10.1371/journal.pcbi.1003506; e - https://dl.acm.org/doi/pdf/10.1145/3173574.3173606
 
 **Aula 06** - Controle de versão - git e gitHub (teórica e prática)
 Assuntos: git, gitHub, push, pull, fork, clone
