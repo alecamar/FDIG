@@ -49,7 +49,9 @@ Assuntos:  Como organizar uma tabela de dados em forma *tidy*, ferramentas do *t
 
 Leituras: 
 A - Martone 2015 - https://doi.org/10.1093/biosci/biv095 e links
+
 B - Austin1 et al. 2017 - 10.1007/s00799-016-0178-2
+
 C - 
 D - 
 E - 
