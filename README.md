@@ -33,7 +33,8 @@ Assuntos:  Ciência aberta, dados abertos, metadados, códigos, erros e acertos 
 
 [Slides Aula 01 - Introdução](https://github.com/alecamar/FDIG/blob/master/Aula_02_Introducao.html)
 
-Introdução ao RStudio e RMarkdown (Rmd): (https://youtu.be/vjFmEGkpfFs)
+[Introdução ao RStudio e RMarkdown (Rmd)] (https://youtu.be/vjFmEGkpfFs)
+Aproveite e se inscreva no canal do NEEDS do youtube!
 
 **Aula 02** - Organização de projetos científicos, uso da linha de comando e aquisição de dados da internet (teórica e prática)
 Assuntos: Como organizar um diretório, sub-diretórios, usar a linha de comando, como baixar dados pela internet de maneira organizada, criar um perfil no gitHub
@@ -51,7 +52,7 @@ Leituras:
 A - Martone 2015 - (https://doi.org/10.1093/biosci/biv095) e links; B - Austin1 et al. 2017 - 10.1007/s00799-016-0178-2;
 
 Trabalho 03 (todos): Fazer um blog post sobre o tema da aula (leituras + aula expositiva) no Wiki do curso, que posteriormente será publicado na internet.  
-Wiki: (https://docs.google.com/document/d/1ofYoa8K2Inhz5gR_qv0TgSNzf52kHvnHbdAE-dKG__M/edit?usp=sharing)
+[Wiki] (https://docs.google.com/document/d/1ofYoa8K2Inhz5gR_qv0TgSNzf52kHvnHbdAE-dKG__M/edit?usp=sharing)
 
 **Aula 04** - Desenvolvimento de scripts para organização, análise e geração de figuras e gráficos (teórica e prática)
 Assuntos: R, knitR, Markdown, RMarkdown, "literate programing"
@@ -66,7 +67,7 @@ A - Wilson et al. 2014: https://doi.org/10.1371/journal.pbio.1001745; B - Wilson
 C - Shade & Teal 2015: https://doi.org/10.1371/journal.pbio.1002303; D - Osborne et al. 2014: https://doi.org/10.1371/journal.pcbi.1003506; e - https://dl.acm.org/doi/pdf/10.1145/3173574.3173606
 
 Trabalho 05 (todos): Fazer um blog post sobre o tema da aula (leituras + aula expositiva) no Wiki do curso, que posteriormente será publicado na internet.
-Wiki: https://docs.google.com/document/d/1ofYoa8K2Inhz5gR_qv0TgSNzf52kHvnHbdAE-dKG__M/edit?usp=sharing
+[Wiki] (https://docs.google.com/document/d/1ofYoa8K2Inhz5gR_qv0TgSNzf52kHvnHbdAE-dKG__M/edit?usp=sharing)
 
 **Aula 06** - Controle de versão - git e gitHub (teórica e prática)
 Assuntos: git, gitHub, push, pull, fork, clone
@@ -78,7 +79,7 @@ Trabalho 06 (individual): Trabalho git e gitHub
 Assuntos: Discussão sobre as idéias de projetos com os alunos e caminhos a serem seguidos de obtenção de dados, análise de dados, apresentação, etc.
 
 Trabalho 07 (todos): Ver diversos repositórios no gitHub e ver como se escrever um bom README, postar no página na Wiki do curso, argumentando quais são os principais pontos positivos e negativos. Será publicado na internet posteriormente.
-Wiki: https://docs.google.com/document/d/1ofYoa8K2Inhz5gR_qv0TgSNzf52kHvnHbdAE-dKG__M/edit?usp=sharing
+[Wiki] (https://docs.google.com/document/d/1ofYoa8K2Inhz5gR_qv0TgSNzf52kHvnHbdAE-dKG__M/edit?usp=sharing)
 
 Trabalho 08: Criar um repositório no gitHub (com README explicando o assunto que será abordado no projeto, e demais informações relevantes)
 
