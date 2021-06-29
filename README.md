@@ -2,7 +2,7 @@
 
 **FDIG - Ferramentas Digitais para uma Ciência Aberta, reproduzível e com grandes quantidades de dados**
 
-Repositório da disciplina optativa FDIG do Centro de Ciências da Natureza, *campus* Lagoa do Sino, UFSCar
+Repositório da disciplina optativa FDIG do Centro de Ciências da Natureza, *campus* Lagoa do Sino, UFSCar, disciplina espelho para o PPGCAm.
 
 **Professor responsável: Alexandre Camargo Martensen**
 
