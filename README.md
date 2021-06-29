@@ -33,14 +33,14 @@ Assuntos:  Ciência aberta, dados abertos, metadados, códigos, erros e acertos 
 
 [Slides Aula 01 - Introdução](https://github.com/alecamar/FDIG/blob/master/Aula_02_Introducao.html)
 
-Introdução ao RStudio e RMarkdown (Rmd): https://youtu.be/vjFmEGkpfFs
+Introdução ao RStudio e RMarkdown (Rmd): (https://youtu.be/vjFmEGkpfFs)
 
 **Aula 02** - Organização de projetos científicos, uso da linha de comando e aquisição de dados da internet (teórica e prática)
 Assuntos: Como organizar um diretório, sub-diretórios, usar a linha de comando, como baixar dados pela internet de maneira organizada, criar um perfil no gitHub
 
 [Slides Aula 02 - Organização](https://github.com/alecamar/FDIG/blob/master/Aula_02_Organizacao.html)
 
-Trabalho 01 (individual): Linha de comando (criar diretorio, mover, copiar, etc - baseada na aula do pessoal do Software Carpentry - http://swcarpentry.github.io/shell-novice/)
+Trabalho 01 (individual): Linha de comando (criar diretorio, mover, copiar, etc - baseada na aula do pessoal do Software Carpentry - (http://swcarpentry.github.io/shell-novice/)
 
 Trabalho 02 (individual): Baixar dados na internet através de script
 
@@ -48,10 +48,10 @@ Trabalho 02 (individual): Baixar dados na internet através de script
 Assuntos:  Como organizar uma tabela de dados em forma *tidy*, ferramentas do *tidyverse* para manipulação de dados - http://hadley.nz/, SQL, Bancos de dados NoSQL, formatos para disponibilização de dados,
 
 Leituras: 
-A - Martone 2015 - https://doi.org/10.1093/biosci/biv095 e links; B - Austin1 et al. 2017 - 10.1007/s00799-016-0178-2;
+A - Martone 2015 - (https://doi.org/10.1093/biosci/biv095) e links; B - Austin1 et al. 2017 - 10.1007/s00799-016-0178-2;
 
 Trabalho 03 (todos): Fazer um blog post sobre o tema da aula (leituras + aula expositiva) no Wiki do curso, que posteriormente será publicado na internet.  
-Wiki: https://docs.google.com/document/d/1ofYoa8K2Inhz5gR_qv0TgSNzf52kHvnHbdAE-dKG__M/edit?usp=sharing
+Wiki: (https://docs.google.com/document/d/1ofYoa8K2Inhz5gR_qv0TgSNzf52kHvnHbdAE-dKG__M/edit?usp=sharing)
 
 **Aula 04** - Desenvolvimento de scripts para organização, análise e geração de figuras e gráficos (teórica e prática)
 Assuntos: R, knitR, Markdown, RMarkdown, "literate programing"
