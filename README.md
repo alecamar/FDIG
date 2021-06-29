@@ -34,6 +34,7 @@ Assuntos:  Ciência aberta, dados abertos, metadados, códigos, erros e acertos 
 [Slides Aula 01 - Introdução](https://github.com/alecamar/FDIG/blob/master/Aula_02_Introducao.html)
 
 [Introdução ao RStudio e RMarkdown (Rmd)](https://youtu.be/vjFmEGkpfFs)
+
 Aproveite e se inscreva no canal do NEEDS do youtube!
 
 **Aula 02** - Organização de projetos científicos, uso da linha de comando e aquisição de dados da internet (teórica e prática)
