@@ -36,13 +36,13 @@ Assuntos:  Ciência aberta, dados abertos, metadados, códigos, erros e acertos 
 Introdução ao RStudio e RMarkdown (Rmd): https://youtu.be/vjFmEGkpfFs
 
 **Aula 02** - Organização de projetos científicos, uso da linha de comando e aquisição de dados da internet (teórica e prática)
-Assuntos: Como organizar um diretório, sub-diretórios, usar a linha de comando, como baixar dados pela internet de maneira organizada
+Assuntos: Como organizar um diretório, sub-diretórios, usar a linha de comando, como baixar dados pela internet de maneira organizada, criar um perfil no gitHub
 
 [Slides Aula 02 - Organização](https://github.com/alecamar/FDIG/blob/master/Aula_02_Organizacao.html)
 
-Trabalho 01: Linha de comando (criar diretorio, mover, copiar, etc - baseada na aula do pessoal do Software Carpentry - http://swcarpentry.github.io/shell-novice/)
+Trabalho 01 (individual): Linha de comando (criar diretorio, mover, copiar, etc - baseada na aula do pessoal do Software Carpentry - http://swcarpentry.github.io/shell-novice/)
 
-Trabalho 02: Baixar dados na internet através de script
+Trabalho 02 (individual): Baixar dados na internet através de script
 
 **Aula 03** - Aquisição, organização, manipulação, arquivamento, disponibilização e recuperação de informações em bancos de dados (teórica e prática)
 Assuntos:  Como organizar uma tabela de dados em forma *tidy*, ferramentas do *tidyverse* para manipulação de dados - http://hadley.nz/, SQL, Bancos de dados NoSQL, formatos para disponibilização de dados,
@@ -50,10 +50,13 @@ Assuntos:  Como organizar uma tabela de dados em forma *tidy*, ferramentas do *t
 Leituras: 
 A - Martone 2015 - https://doi.org/10.1093/biosci/biv095 e links; B - Austin1 et al. 2017 - 10.1007/s00799-016-0178-2;
 
+Trabalho 03 (todos): Fazer um blog post sobre o tema da aula (leituras + aula expositiva) no Wiki do curso, que posteriormente será publicado na internet.  
+Wiki: https://docs.google.com/document/d/1ofYoa8K2Inhz5gR_qv0TgSNzf52kHvnHbdAE-dKG__M/edit?usp=sharing
+
 **Aula 04** - Desenvolvimento de scripts para organização, análise e geração de figuras e gráficos (teórica e prática)
 Assuntos: R, knitR, Markdown, RMarkdown, "literate programing"
 
-Trabalho: Obtenção de dados na internet, filtragem, análise, geração de figuras e de um relatório de forma reproduzível e através de script.
+Trabalho 04 (individual): Obtenção de dados na internet, filtragem, análise, geração de figuras e de um relatório de forma reproduzível e através de script.
 
 **Aula 05** - Boas práticas na computação científica (teórica)
 Assuntos: Data management, Digital Lab Notebooks (Jupyter, Rmd, etc), Workflow, controle de versão, etc.  
@@ -62,48 +65,52 @@ Leituras:
 A - Wilson et al. 2014: https://doi.org/10.1371/journal.pbio.1001745; B - Wilson et al. 2017: https://doi.org/10.1371/journal.pcbi.1005510; 
 C - Shade & Teal 2015: https://doi.org/10.1371/journal.pbio.1002303; D - Osborne et al. 2014: https://doi.org/10.1371/journal.pcbi.1003506; e - https://dl.acm.org/doi/pdf/10.1145/3173574.3173606
 
+Trabalho 05 (todos): Fazer um blog post sobre o tema da aula (leituras + aula expositiva) no Wiki do curso, que posteriormente será publicado na internet.
+Wiki: https://docs.google.com/document/d/1ofYoa8K2Inhz5gR_qv0TgSNzf52kHvnHbdAE-dKG__M/edit?usp=sharing
+
 **Aula 06** - Controle de versão - git e gitHub (teórica e prática)
 Assuntos: git, gitHub, push, pull, fork, clone
 
-Trabalho: Criar um perfil no gitHub, fazer um fork do repositório do curso.
+Trabalho 06 (individual): Trabalho git e gitHub
 
 **Aula 07** - Discussão de propostas de projetos
 
 Assuntos: Discussão sobre as idéias de projetos com os alunos e caminhos a serem seguidos de obtenção de dados, análise de dados, apresentação, etc.
 
-Trabalho 1: Ver diversos projetos no gitHub e ver como se escrever um bom README. Selecionar uns 2 ou 3 e postar no página do curso, argumentando quais são os principais pontos positivos e negativos.
+Trabalho 07 (todos): Ver diversos repositórios no gitHub e ver como se escrever um bom README, postar no página na Wiki do curso, argumentando quais são os principais pontos positivos e negativos. Será publicado na internet posteriormente.
+Wiki: https://docs.google.com/document/d/1ofYoa8K2Inhz5gR_qv0TgSNzf52kHvnHbdAE-dKG__M/edit?usp=sharing
 
-Trabalho 2: Criar um repositório no gitHub (com README explicando o assunto que será abordado no projeto, e demais informações relevantes)
+Trabalho 08: Criar um repositório no gitHub (com README explicando o assunto que será abordado no projeto, e demais informações relevantes)
 
 **Aula 08** - Ferramentas digitais para fomentar a colaboração entre cientistas (teórica e prática)
 
 Assuntos: gitHub, networks, apps para redação científica
 
-Trabalho: Entrar nos perfis dos colegas, fazer comentários, pull/push com correções, etc. 
+Trabalho 09 (individual): Entrar nos perfis dos colegas, fazer comentários, pull/push com correções, etc. 
 
 **Aula 09** - Mídias sociais para divulgação de trabalhos, colaboração online, discussões científicas (Teórico e Prática)
 
 Assuntos: Twitter, grupos do Mendeley, midias sociais, wikis, blogs, sites  
 
-Trabalho: Montar um grupo no Mendeley e colocar textos sobre os temas abordados em sala
+Trabalho 10 (todos): Montar um grupo no Mendeley e colocar textos sobre os temas abordados em sala (nome do grupo FDIG)
 
 **Aula 10** - Presença online (Teórica e Prática)
 
 Assuntos: Como fazer um texto de divulgação científica - super curto, curto, médio e longo, #tags, mídias sociais, etc
 
-Trabalho: uma msg no twiter, uma mensagem no facebook, um blog post (médio tamanho) sobre o trabalho que estão desenvolvendo na disciplina, usando #FDIG2021, #FDIG, #UFSCAR e #UFSCAR_LS, #PPGCAm
+Trabalho 11: uma msg no twiter, uma mensagem no facebook, um blog post (médio tamanho) sobre o trabalho que estão desenvolvendo na disciplina, usando #FDIG2021, #FDIG, #UFSCAR e #UFSCAR_LS, #PPGCAm (10% da nota)
 
-Discussão sobre temas não abordados que serão explorados (Apresentações aula 12)
+Discussão sobre temas não abordados que serão explorados na aula 12. 
+
+Trabalho 12 (individual): Fazer um vídeo "curto" explicando o que é, como usar, para que serve, etc. Será postado na playlist do curso (20% da nota).
 
 **Aula 11** - Discussão andamento de projetos
 
 Assuntos: Avaliar o andamento dos projetos dos alunos
 
-**Aula 12** - Apresentação de temas não abordados (Alunos)
+**Aula 12** - Discussão sobre temas não abordados (Alunos já assistiram os vídeos dos colegas)
 
 Assuntos: Temas não abordados
-
-Trabalho: Alunos farão breve apresentações (5 a 10 min) sobre temas que ainda não foram abordados em sala relacionados a disciplina.
 
 **Aula 13** - Projeto
 
@@ -115,11 +122,11 @@ Assuntos: Disponível para os alunos tirarem dúvidas sobre as análises do proj
 
 **Aula 15** - Sorteio da ordem de apresentação dos projetos e apresentação dos projetos
 
-Assuntos: Apresentação dos projetos
+Assuntos: Apresentação dos projetos (50% da nota)
 
 **Aula 16** - Apresentação dos projetos
 
-Assuntos: Apresentação dos projetos
+Assuntos: Apresentação dos projetos (50% da nota)
 
 **Aula 17** - Avaliações e confraternização
 
@@ -129,7 +136,7 @@ Assuntos: Avaliações
 
 A avaliação da disciplina será feita da seguinte maneira:
 
-- 20% participação em aula
+- 20% participação em aula (10 trabalhos)
 - 20% trabalho sobre temas não abordados
 - 10% Divulgação científica
 - 50% projeto final
