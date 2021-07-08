@@ -28,7 +28,7 @@ O que iremos abordar?
 - Mídias sociais para divulgação de trabalhos, colaboração online, discussões científicas
 - Presença online 
 - Perspectivas para a divulgação e comunicação científica nos próximos anos
-- Palavra chave: **reprodutível**
+- Palavra chave: **reproduzível**
 
 outros temas relacionados...
 
@@ -89,7 +89,7 @@ Assuntos:  Como organizar uma tabela de dados de forma *tidy*, ferramentas do *t
 
 Assuntos: R, knitR, Markdown, RMarkdown, "literate programing"
 
-Trabalho: Obtenção de dados na internet, filtragem, análise, geração de figuras e de um relatório de forma reprodutível e através de script.
+Trabalho: Obtenção de dados na internet, filtragem, análise, geração de figuras e de um relatório de forma reproduzível e através de script.
 
 
 Nosso cronograma
@@ -97,7 +97,7 @@ Nosso cronograma
 
 **Aula 05** - Boas práticas na computação científica (teórica)
 
-Assuntos:   
+Assuntos: Data management, Digital Lab Notebooks (Jupyter, Rmd, etc), Workflow, controle de versão, etc.   
 
 **Aula 06** - Controle de versão - git e gitHub (teórica e prática)
 
@@ -142,7 +142,7 @@ Trabalho: Montar um grupo no Mendeley e colocar textos sobre os temas abordados 
 
 Assuntos: Como fazer um texto de divulgação científica - super curto, curto, médio e longo.
 
-Trabalho: uma msg no twiter, uma mensagem no facebook, um blog post (médio tamanho) sobre o trabalho que estão desenvolvendo na disciplina, usando #FDIG2019, #FDIG, #UFSCAR e #UFSCAR_LS
+Trabalho: uma msg no twiter, uma mensagem no facebook, um blog post (médio tamanho) sobre o trabalho que estão desenvolvendo na disciplina, usando #FDIG, #UFSCAR e #UFSCAR_LS
 
 Nosso cronograma
 ========================================================
@@ -164,7 +164,7 @@ Nosso cronograma
 
 **Aula 13** - Projeto
 
-Assuntos: Disponível para os alunos realizarem os projetos
+Assuntos: Disponível para os alunos realizarem os projetos, tirarem dúvidas, etc.
 
 
 **Aula 14** - Dúvidas e discussão do andamento dos projetos
@@ -191,6 +191,15 @@ Nosso cronograma
 
 Assuntos: Avaliações
 
+Formas de avaliação
+========================================================
+
+- 20% participação em aula (10 trabalhos)
+- 20% trabalho sobre temas não abordados
+- 10% Divulgação científica
+- 50% projeto final
+
+
 Resumo
 ========================================================
 
@@ -202,15 +211,16 @@ Esta disciplina demandará uma dedicação extra classe considerável em diversa
 - Na frente do computador...
 
 
-
 Formas de comunicação durante a disciplina
 ========================================================
 
 https://alecamar.github.io/FDIG/
 
-https://sites.google.com/view/martensen/doc%C3%AAncia/fdig
+http://www.needs.ufscar.br/
 
-Por email: acmartensen (-at-) GM
+Página do Google Classroom
+
+Por email: martensen (-at-) ufscar.br
 
 zap
 
