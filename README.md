@@ -56,7 +56,9 @@ Trabalho 03 (todos): Fazer um blog post sobre o tema da aula (leituras + aula ex
 [Wiki](https://docs.google.com/document/d/1ofYoa8K2Inhz5gR_qv0TgSNzf52kHvnHbdAE-dKG__M/edit?usp=sharing)
 
 **Aula 04** - Desenvolvimento de scripts para organização, análise e geração de figuras e gráficos (teórica e prática)
-Assuntos: R, knitR, Markdown, RMarkdown, "literate programing"
+Assuntos: R, knitR, Markdown, RMarkdown, "literate programing", organização de scripts em pacotes no R, etc.
+
+![](https://twitter.com/drob/status/611885584584441856?s=20)
 
 Trabalho 04 (individual): Obtenção de dados na internet, filtragem, análise, geração de figuras e de um relatório de forma reproduzível e através de script.
 
