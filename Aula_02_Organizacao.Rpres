@@ -4,7 +4,7 @@ body {
 }
 </style>
 
-Aula_02_Organizacao
+Aula 02 Organização
 ========================================================
 author: Alexandre Camargo Martensen
 date: `r Sys.time()`
@@ -68,13 +68,13 @@ Todas as figuras são geradas através de scripts, e desta maneira, podem ser ap
 Como eu organizo meus projetos - 3
 ========================================================
 
-Eu trabalho, via de regra, dentro do conceito de "Literate programming" e costumeiramente uso o knitr, o RMarkdown e o R para isso. Desta maneira uma das pastas que eu tenho é chamada de vignette, onde ficam os códigos de *.Rmd. R Notebooks também são uma ótima opção para análises mais longas.
+Eu trabalho, via de regra, dentro do conceito de "Literate programming" e costumeiramente uso o knitr, o RMarkdown e o R para isso. Desta maneira uma das pastas que eu tenho é chamada de vignette, onde ficam os códigos de *.Rmd. R Notebooks também são uma ótima opção para análises mais longas (ou seja, quase sempre a pasta Rscripts fica meio vazia).
 
 ~/iniciacao_cientifica/vignettes
 
 A idéia é que cada arquivo vire um capítulo de um caderno, e que esses capítulos juntos vão contado detalhadamente a história do trabalho. Desde baixar os dados > filtrar > analises exploratórias > análises > redação do trabalho > geração de figuras...
 
-Caso os códigos gerem algum resultado como cenários, ou algum outro "output" eu também uso uma pasta *output*. Isso pq as vezes essa cenarização é pesada, e não vale a pena ficar rodando novamente, então eles ficam salvos nessa pasta.
+Caso os códigos gerem algum resultado como cenários, ou algum outro "output" eu também uso uma pasta *output*. Isso pq as vezes essa cenarização é pesada, e não vale a pena ficar rodando novamente, então eles ficam salvos nessa pasta (outra opção cache).
 
 ~/iniciacao_cientifica/output
 
@@ -153,9 +153,9 @@ Código no gitHub
 ```{r}
 #install.packages("devtools")
 #library(devtools)
-#install_github("alecamar/ACMfunctions")
-#library(ACMfunctions)
-#Cria_diretorio("nome que vc quer dar para o diretório")
+#install_github("NEEDS-LS/createRepo")
+#library(createRepo)
+#createRepo()
 ```
 
 
