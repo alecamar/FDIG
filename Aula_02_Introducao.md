@@ -7,7 +7,7 @@ body {
 Aula 02 - Introdução aos temas que serão abordados na disciplina
 ========================================================
 author: Alexandre Camargo Martensen
-date: 2021-07-08 21:48:18
+date: 2021-07-08 22:58:47
 autosize: true
 
 
@@ -31,10 +31,12 @@ O que é Ciência 2.0?
 <div align="center">
 "Science happens not just because of people doing experiments, but because they're discussing those experiments" </div>
 
+<br>
+
 <div align="center">
 Christopher Surridge</div>
 
-
+<br>
 <div align="right">https://www.scientificamerican.com/article/science-2-point-0-great-new-tool-or-great-risk/</div>
 
 
@@ -56,52 +58,62 @@ O que é Ciência 2.0?
 
 - Foco na reprodutibilidade
 
-<div align="left">
-<img src="open_citizen_etc.png" width=1000 height=600>
+<div align="center">
+<img src="open_citizen_etc.png" width=500 height=400>
 </div>
 
+<div align="right">
 Szkuta & Osimo (2012)
 10.13140/RG.2.2.35128.03842
-
+</div>
 
 Ciência 2.0 oportunidade ou necessidade?
 ========================================================
 
 <div align="left">
-<img src="science_doubles_9yrs.png" width=1000 height=600>
+<img src="science_doubles_9yrs.png" width=800 height=600>
 </div>
 
-<div align="right">
-- 8 a 9% de aumento de artigos por ano
-- Dobra a cada 9 anos
-- 2/min em “Life science” (em 2008)
-- Citações sem ler
-- Phantom reference: "Van der Geer, J., Hanraads, J.A.J., Lupton, R.A., 2000. The art of writing a scientific article. J Sci. Commun. 163 (2) 51-59"
+****
 
-https://www.researchgate.net/publication/321156285_The_mystery_of_the_phantom_reference
+<div align="left">
+<h4>
+- 8 a 9% de aumento de artigos por ano<br></p>
 
-- Resumo, partes do artigo
-- Impossível de acompanhar
+- Dobra a cada 9 anos<br></p>
+
+- 2/min em “Life science” (em 2008)<br></p>
+
+- Citações sem ler<br></p>
+
+- Phantom reference: Van der Geer et al. 2000.<br>
+The art of writing a scientific article. J Sci. Commun. 163(2): 51-59<br></p>
+
+- Resumo, partes do artigo<br></p>
+
+- Impossível de acompanhar<br></p>
+</h4>
 </div>
 
 “O século XXI será o século da complexidade”
 ========================================================
+
 <div align="right">
 Stephen Hawking
 </div>
 
 </br>
 <div align="center">
-<h1>
+<h3>
 “... complex problems need a multi-disciplinary approach to understanding the problem and identifying innovative and holistic approaches to deliver lasting change”
-</h1>
+</h3>
 </div>
 
 [Spencer (2016)](https://www.thersa.org/discover/publications-and-articles/rsa-blogs/2016/08/complex-problems-need-multidisciplinary-solutions)
 
 
 <div align="center">
-<img src="colaboradores_Artigo.png" width=1000 height=600>
+<img src="colaboradores_Artigo.png" width=900 height=500>
 </div>
 
 <div align="right">
@@ -112,24 +124,28 @@ Ciência 2.0 oportunidade ou necessidade?
 ========================================================
 <br>
 <div align="center">
-<h1>
+<h2>
 Os dois maiores desafios da humanidade
-</h1>
+</h2>
 </div>
 
 <br>
 
 <div align="center">
-<img src="biodiversity.png" width=1000 height=1050>
-<img src="climate_change.png" width=1000 height=600>
+<img src="biodiversity.png" width=400 height=400>
+<img src="climate_change.png" width=400 height=200>
 </div>
 
 <div align="left">
-https://www.safeworldhse.com/2020/04/<br>biodiversity-types-importance-loss-conservation.html
+<font size="-1">
+https://www.safeworldhse.com/2020/04/biodiversity-types-importance-loss-conservation.html
+</font>
 </div>
 
 <div align="right">
-https://www.usatoday.com/story/news/nation/2020/09/10/<br>climate-change-covid-19-does-global-warming-fuel-pandemics/5749582002/
+<font size="-1">
+https://www.usatoday.com/story/news/nation/2020/09/10/climate-change-covid-19-does-global-warming-fuel-pandemics/5749582002/
+</font>
 </div>
 
 
@@ -140,7 +156,7 @@ Ciência 1.0
 
 - Pesquisas isolada, dados guardados em computadores pessoais, submetida, revisadas de maneira anônima, publicada
 - “Paywalls”
-- Artigos tem copyright
+- Artigos tem copyright</p><br>
 - Crédito estabelecido com base na revista, fator de impacto<br>
 
 - Financiamento das editoras baseado na “venda” das revistas (acesso à informação)
@@ -173,50 +189,69 @@ Aberta e reproduzível
 Aberta e reprodutível
 ========================================================
 
-<h2>Reprodutível para quem?</h2>
+<h2>Reproduzível para quem?</h2>
 
 Inicialmente para você mesmo...
 
-*Seu orientador para você:* 
+<div align="center">
+<h2>
+Seu orientador para você: 
+</h2>
+</div>
 
+<h3>
 "Ficou muito legal, mas você usou uma versão antiga do banco de dados... Você terá que refazer tudo com o novo banco de dados"
-
+</h3>
 </br>
+
+<div align="center">
+<h2>
 "Your closest collaborator is you six months ago, but you don't reply to emails."
+</h2>
+</div>
 
+<div align="right">
 Karl Broman
+</div>
 
-Reprodutível
+Reproduzível
 ========================================================
 </br>
-**O método científico preconiza que a ciência seja reprodutível!**
+**O método científico preconiza que a ciência seja reproduzível/reprodutível!**
 
 Isso significa que se um outro grupo de pesquisa pegar e fazer o mesmo experimento, seguindo exatamente os mesmos métodos descritos e empregados no trabalho, chegará nos mesmos resultados
 
 Atualmente, com a ciência largamente sendo feita em computadores... isso significa que os dados e os códigos tem que ser disponíveis e organizados de forma que os resultados (incluindo figuras) possam ser obtidos novamente
 
-A importância dessa reprodutividade é largamente reconhecida atualmente, porém, não é largamente aplicada, em grande parte pq os cientistas não dominam as ferramentas para tal
+A importância dessa reproduzibilidade é largamente reconhecida atualmente, porém, não é largamente aplicada, em grande parte pq os cientistas não dominam as ferramentas para tal
 
-Este é exatamente o foco deste curso!
+Esse é exatamente o foco deste curso!
 
-*Adaptado de Karl Broman*
+<div align="right">
+Adaptado de Karl Broman
+</div>
 
 Por quê?
 ========================================================
 </br>
-- Economiza tempo... em geral, temos que fazer uma mesma coisa várias vezes, e repetí-las fica mais facil quando temos os princípios da reprodutibilidade atendidos
+- Economiza tempo... em geral, temos que fazer uma mesma coisa várias vezes, e repetí-las fica mais facil quando temos os princípios da reproduzibilidade atendidos
 
 - Pode ser aplicado em outras situações mais facilmente, aumentando o impacto. Pessoas podem pegar os seus códigos ou os seus dados e fazer novas análises
 
 - Aumentam as chances de você estar certo...
 
+
 <div align="center">
-<img src="erros.png" width=800 height=400>
+<img src="erros.png" width=500 height=250>
 </div>
 
+<div align="right">
+<font size="-1">
 Sources of error in the retracted scientific literature
 (Casadevall et al. 2014)
 doi: 10.1096/fj.14-256735
+</font>
+<div>
 
 Por quê?
 ========================================================
@@ -236,7 +271,7 @@ Em resumo... temos menos chance de estarmos errados!!!
 <img src="exemplo_errado.png" width=800 height=600>
 </div>
 
-Caminho para...
+Caminho para a Reprodutibilidade
 ========================================================
 
 <div align="center">
@@ -250,7 +285,7 @@ Caminho para...
 [//]: # (https://www.mensagenscomamor.com/mensagem/117890)
 
 
-Caminho para...
+Caminho para a Reprodutibilidade
 ========================================================
 
 <div align="center">
@@ -382,7 +417,7 @@ Mudança na forma de se fazer ciência - Análises
 =======================================================
 
 <div align="center">
-<img src="carl_boettiger_Nature.png" width=1200 height=1000>
+<img src="carl_boettiger_Nature.png" width=900 height=600>
 </div>
 
 
@@ -390,16 +425,16 @@ Mudança na forma de se fazer ciência - Análises
 =======================================================
 
 <div align="center">
-<img src="carl_boettiger_site.png" width=1200 height=800>
+<img src="carl_boettiger_site.png" width=1000 height=600>
 </div>
 
-[//]: #(https://www.carlboettiger.info/)
+https://www.carlboettiger.info/
 
 Mudança na forma de se fazer ciência - Análises
 =======================================================
 
 <div align="center">
-<img src="boettiger_labNotebook.png" width=1200 height=1000>
+<img src="boettiger_labNotebook.png" width=1000 height=800>
 </div>
 
 [//]: #(https://www.carlboettiger.info/lab-notebook)
@@ -408,14 +443,14 @@ Mudança na forma de se fazer ciência - Análises
 =======================================================
 
 <div align="center">
-<img src="ex_notebook.png" width=1200 height=1000>
+<img src="ex_notebook.png" width=1000 height=800>
 </div>
 
 Mudança na forma de se fazer ciência - Análises
 =======================================================
 
 <div align="center">
-<img src="gitHubCarl.png" width=1200 height=1000>
+<img src="gitHubCarl.png" width=800 height=600>
 </div>
 
 
@@ -475,14 +510,14 @@ Versão de um artigo científico que precede a publicação “peer-reviewed”
 - PaleorXiv
 
 <div align="center">
-<img src="bioRXiv.png" width=700 height=800>
+<img src="bioRXiv.png" width=900 height=800>
 </div>
 
 
 ***
 
 <div align="center">
-<img src="arXiv.png" width=700 height=800>
+<img src="arXiv.png" width=900 height=800>
 </div>
 
 Mudança na forma de se fazer ciência - Revisão
@@ -495,16 +530,13 @@ Mudança na forma de se fazer ciência - Revisão
 - Open
 
 <div align="center">
-<img src="publons_acm.png" width=700 height=400>
+<img src="publons_acm.png" width=500 height=200>
 </div>
 
 Mudança na forma de se fazer ciência - Revisão
 =======================================================
 <p>
-<<<<<<< HEAD
-<p>
-=======
->>>>>>> b1b78e0468f624eb540e13a46705228f9e376272
+
 - Open reviews
 <p>
 <div align="center">
@@ -578,14 +610,14 @@ Mudança na forma de se fazer ciência - Acesso
 <img src="open_Access_logo.png" width=400 height=700>
 </div>
 
-Mudança na forma de se fazer ciência - tipos de publicação
+Mudança na forma de se fazer ciência, tipos de publicação
 =======================================================
 
 <div align="center">
 <img src="publicacoes_novas.png" width=1900 height= 800>
 </div>
 
-Mudança na forma de se fazer ciência - tipos de publicação
+Mudança na forma de se fazer ciência, tipos de publicação
 =======================================================
 <p>
 <div align="center">
@@ -599,24 +631,21 @@ Mudança na forma de se fazer ciência - tipos de publicação
 </div>
 
 
-Mudança na forma de se fazer ciência - tipos de publicação
+Mudança na forma de se fazer ciência, tipos de publicação
 =======================================================
 
 “...the basic means of communicating scientific results hasn’t changed for 400 years. Papers may be posted online, but they’re still text and pictures on a page.”
 
-
-<video width="1000" height="700" controls>
-  <source src="SciencePapersFlames-New(1).mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+<div align="center">
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/Fh7Nc6uQcHY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 [//]: #https://cdn.theatlantic.com/assets/media/video/upload/SciencePaperFlames-New.mp4
 
-**The scientific paper is obsolete - here is what is next**
+**The scientific paper is obsolete - here is what is next**</p>
 https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/
 
-[//]: # Tah com problema
+
 
 Mudança na forma de se fazer ciência - tipos de publicação
 =======================================================
@@ -625,7 +654,7 @@ Bibliotecas são feitas para se congelar...
 
 <p>
 <div align="center">
-<img src="E665TT.png" width=1200 height= 1000>
+<img src="E665TT.png" width=800 height= 600>
 </div>
 
 Mudança na forma de se fazer ciência - tipos de publicação
@@ -636,7 +665,7 @@ Bibliotecas digitais são congeladas também...
 PDFs são travados
 <p>
 <div align="center">
-<img src="defrosting.png" width=1200 height= 900>
+<img src="defrosting.png" width=800 height= 500>
 </div>
 
 Bibliotecas digitais são travadas também
@@ -673,7 +702,7 @@ Tornando as bibliotecas digitais dinâmicas
 
 <p>
 <div align="center">
-<img src="mendeley.png" width=1200 height= 900>
+<img src="mendeley.png" width=1000 height=500>
 </div>
 
 Encontrando, armazenando, organizando e   recuperando a literatura
@@ -724,7 +753,7 @@ Long Live Science
 =======================================================
 
 <div align="center">
-<img src="science_is_Dead_long_live_science.png" width=1200 height=1000>
+<img src="science_is_Dead_long_live_science.png" width=800 height=700>
 </div>
 
 Peter Dear, "Science Is Dead; Long Live Science," Osiris 27 (2012): 37-55.
