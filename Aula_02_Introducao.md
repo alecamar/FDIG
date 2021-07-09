@@ -2,18 +2,12 @@
 body {
     overflow: scroll;
 }
-
-
 </style>
 
 Aula 02 - Introdução aos temas que serão abordados na disciplina
 ========================================================
 author: Alexandre Camargo Martensen
-<<<<<<< HEAD
-date: 2019-07-08 16:12:34
-=======
-date: 2019-07-08 16:07:17
->>>>>>> b1b78e0468f624eb540e13a46705228f9e376272
+date: 2021-07-08 21:48:18
 autosize: true
 
 
@@ -21,6 +15,7 @@ autosize: true
 <div align="center">
 <img src="social-science.png" width=1200 height=600>
 </div>
+<div align="right">access2perspectives.com</div>
 
 
 
@@ -30,22 +25,53 @@ O que é Ciência 2.0?
 - Nova forma de se fazer ciência, baseada na troca de informações e na colaboração (tecnologia de redes - Web 2.0)
     - Open research
     - Open science
+    - Big data
+    
+    
+<div align="center">
+"Science happens not just because of people doing experiments, but because they're discussing those experiments" </div>
 
-- Novas ferramentas de colaboração/comunicação como wikis, blogs, videos, open lab notebooks, gitHub, figShare, pré-prints, live figures, live code (ex. Shiny), data repositories, open reviews...
+<div align="center">
+Christopher Surridge</div>
 
-- Foco na reprodutividade
+
+<div align="right">https://www.scientificamerican.com/article/science-2-point-0-great-new-tool-or-great-risk/</div>
 
 
-Ciência 2.0 oportunidade ou necessidade?
+Tecnologia de redes - Web 2.0
 ========================================================
 
 <div align="center">
-<img src="science_doubles_9yrs.png" width=1000 height=600>
+<img src="acesso_banda_larga.png" width=400 height=300>
+<img src="pessoas_midias_sociais.png" width=400 height=300>
 </div>
+
+https://ourworldindata.org/internet#internet-access
+
+
+O que é Ciência 2.0?
+========================================================
+
+- Novas ferramentas de colaboração/comunicação como wikis, blogs, videos, open lab notebooks, gitHub, figShare, pré-prints, live figures, live code (ex. Shiny), data repositories, open reviews...
+
+- Foco na reprodutibilidade
+
+<div align="left">
+<img src="open_citizen_etc.png" width=1000 height=600>
+</div>
+
+Szkuta & Osimo (2012)
+10.13140/RG.2.2.35128.03842
 
 
 Ciência 2.0 oportunidade ou necessidade?
 ========================================================
+
+<div align="left">
+<img src="science_doubles_9yrs.png" width=1000 height=600>
+</div>
+
+<div align="right">
 - 8 a 9% de aumento de artigos por ano
 - Dobra a cada 9 anos
 - 2/min em “Life science” (em 2008)
@@ -56,27 +82,54 @@ https://www.researchgate.net/publication/321156285_The_mystery_of_the_phantom_re
 
 - Resumo, partes do artigo
 - Impossível de acompanhar
+</div>
 
-
-Ciência 2.0 oportunidade ou necessidade?
-========================================================
-</br>
-<h1 align="center">
 “O século XXI será o século da complexidade”
-</h1>
-
-				Stephen Hawking
-
-Ciência 2.0 oportunidade ou necessidade?
 ========================================================
+<div align="right">
+Stephen Hawking
+</div>
+
 </br>
+<div align="center">
+<h1>
 “... complex problems need a multi-disciplinary approach to understanding the problem and identifying innovative and holistic approaches to deliver lasting change”
+</h1>
+</div>
 
 [Spencer (2016)](https://www.thersa.org/discover/publications-and-articles/rsa-blogs/2016/08/complex-problems-need-multidisciplinary-solutions)
 
 
-<div align="bottom center">
-<img src="teams_science.png" width=900 height=500>
+<div align="center">
+<img src="colaboradores_Artigo.png" width=1000 height=600>
+</div>
+
+<div align="right">
+Wuchty S, Jones BF, Uzzi B (2007) Science 316: 1036–1039.
+</div>
+
+Ciência 2.0 oportunidade ou necessidade?
+========================================================
+<br>
+<div align="center">
+<h1>
+Os dois maiores desafios da humanidade
+</h1>
+</div>
+
+<br>
+
+<div align="center">
+<img src="biodiversity.png" width=1000 height=1050>
+<img src="climate_change.png" width=1000 height=600>
+</div>
+
+<div align="left">
+https://www.safeworldhse.com/2020/04/<br>biodiversity-types-importance-loss-conservation.html
+</div>
+
+<div align="right">
+https://www.usatoday.com/story/news/nation/2020/09/10/<br>climate-change-covid-19-does-global-warming-fuel-pandemics/5749582002/
 </div>
 
 
@@ -86,10 +139,10 @@ Comparação Ciência 1.0 vs Ciência 2.0
 Ciência 1.0
 
 - Pesquisas isolada, dados guardados em computadores pessoais, submetida, revisadas de maneira anônima, publicada
-“paywalls”
-
-- Crédito estabelecido com base na revista, fator de impacto
+- “Paywalls”
 - Artigos tem copyright
+- Crédito estabelecido com base na revista, fator de impacto<br>
+
 - Financiamento das editoras baseado na “venda” das revistas (acesso à informação)
 - Resumo do processo da descoberta e dos achados
 
@@ -98,13 +151,15 @@ Ciência 1.0
 Ciência 2.0
 
 - Dados compartilhados assim que obtidos, idéias  são compartilhadas e livremente debatidas, intensa colaboração, ampla disseminação (online)
-- Crédito estabelecido pelo # citações,  # visualizações,   # downloads, mídias sociais, impacto social...
+- Abertas
 - Diferentes licenças: domínio público, Creative Commons 3.0, etc.
-- Financiamentos alternativos
-- Dados e códigos disponíveis, processo de obtenção dos resultados detalhadamente descrito através de “open lab notebooks”, mídia social, blogs, wikis, etc
-- Reprodutibilidade
+- Crédito estabelecido pelo # citações,  # visualizações,   # downloads, mídias sociais, impacto social...
+- Financiamentos alternativos<br>
 
-Aberta e reprodutível
+- Dados e códigos disponíveis, processo de obtenção dos resultados detalhadamente descrito através de “open lab notebooks”, mídia social, blogs, wikis, etc
+- Reproduzibilidade
+
+Aberta e reproduzível
 ========================================================
 </br>
 **Aberta:** Não é apenas uma questão de "paywall"!
@@ -113,7 +168,7 @@ Aberta e reprodutível
 - Etapas detalhadas (Open lab notebook)
 - Códigos disponíveis (tratamento de dados, análises, figuras...)
 
-=> Reprodutível!!!
+=> Reproduzível!!!
 
 Aberta e reprodutível
 ========================================================
