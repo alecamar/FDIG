@@ -6,15 +6,15 @@ Repositório da disciplina optativa FDIG do Centro de Ciências da Natureza, *ca
 
 **Professores responsáveis: Alexandre Camargo Martensen (coordenador), Gabriel Lourenço Brejão e Eduardo Freitas Moreira**
 
-**Será fornecida no primeiro semestre de 2020** Devido a pandemia do COVID-19, esse curso foi adiado e será ministrado no segundo semestre letivo de 2021.
+**Será fornecida no primeiro semestre de 2020** Devido a pandemia do COVID-19, esse curso foi adiado e será ministrado no segundo semestre letivo de 2021 (início em Jan 22).
 
 Página da disciplina: http://www.needs.ufscar.br/docencia/fdig
 
 **Breve descrição da disciplina**
 
-Estamos vivenciando uma mudança de paradigma na ciência, onde a ciência passa a ser cada vez mais baseada na colaboração entre cientistas organizados em redes, largamente alicerçada em grandes bancos de dados (“big data”) obtidos via de regra através de sensores remotos automatizados, que irão demandar ferramentas inovadoras de filtragem, organização, armazenamento e análise dos dados. Além disso, a ciência apresentará uma maior proporção de perguntas guiadas pelos dados (“data driven”) e uma menor parcela guiada por hipóteses, utilizará inteligência artificial, demandará conhecimento de linguagem de programação e de ferramentas digitais ainda não são apresentadas aos nossos alunos em cursos regulares de graduação.
+Estamos vivenciando uma mudança de paradigma na ciência, onde a ciência passa a ser cada vez mais baseada na colaboração entre cientistas organizados em redes, largamente alicerçada em grandes bancos de dados (“big data”), obtidos via de regra através de sensores remotos automatizados, que irão demandar ferramentas inovadoras de filtragem, organização, armazenamento e análise dos dados. Além disso, a ciência apresentará uma maior proporção de perguntas guiadas pelos dados (“data driven”) e uma menor parcela guiada por hipóteses, utilizará inteligência artificial, demandará conhecimento de linguagem de programação e de ferramentas digitais que ainda não são apresentadas aos nossos alunos em cursos regulares de graduação e de pós-graduação.
 
-De forma a suprir essa carência, esta disciplina busca apresentar para os nossos alunos alguns destes novos paradigmas, municiando-os também com parte das ferramentas necessárias para a execução de tarefas dentro desta nova perspectiva. Especialmente irei abordar questões relacionadas com a obtenção e organização de grandes bancos de dados, análise de grandes conjuntos de dados através de scripts, colaboração científica através do compartilhamento de dados, códigos para análises e programas, organização de projetos, escrita colaborativa, controle de versões de códigos e textos. Além disso, abordarei questões relacionadas à ciência aberta e revisão de artigos abertos, a questão de licenças e as discussões sobre os potenciais avanços das publicações científicas.
+De forma a suprir essa carência, esta disciplina busca apresentar para os nossos alunos alguns destes novos paradigmas, municiando-os também com parte do ferramental necessário para a execução de tarefas dentro desta nova perspectiva. Especialmente irei abordar questões relacionadas a obtenção e organização de grandes bancos de dados, análise de grandes conjuntos de dados através de scripts, colaboração científica através do compartilhamento de dados, códigos para análises e programas, organização de projetos, escrita colaborativa, controle de versões de códigos e textos. Além disso, abordarei questões relacionadas à ciência aberta e revisão de artigos abertos, a questão de licenças e as discussões sobre os potenciais avanços das publicações científicas.
 
 **Objetivos Gerais**
 
@@ -22,7 +22,7 @@ Ao final da disciplina o aluno terá sido exposto à práticas e ferramentas par
 
 **Proposta de Ementa**
 
-A ciência aberta, “Open Lab Notebooks (OLN)”, “pré-prints”, disponibilização dos dados, metadados, códigos, erros e acertos ao longo do processo de descoberta científica, publicação aberta; Obtenção de dados através de sensores remotos, armazenamento, manuseio, organização e recuperação de dados; A linguagem de programação R; desenvolvimento de scripts para organização, análise e geração de figuras e gráficos; boas práticas na computação científica; ferramentas digitais para fomentar a colaboração entre cientistas; formas de organização de projetos científicos; controle de versões - git e gitHub; “double blind” e “open peer review”; categorias de softwares livres e diferentes tipos de licenças; mídias sociais para divulgação de trabalhos, colaboração online, discussões científicas, perguntas e respostas na internet (por ex. StackOverflow, R-sig-geo, R-igraph, entre outros); presença online; perspectivas para a divulgação e comunicação científica nos próximos anos, entre outros temas relacionados.
+A ciência aberta, “Open Lab Notebooks (OLN)”, “pré-prints”, disponibilização dos dados, metadados, códigos, erros e acertos ao longo do processo de descoberta científica, publicação aberta; Obtenção de dados através de sensores remotos, armazenamento, manuseio, organização e recuperação de dados; A linguagem de programação R; desenvolvimento de scripts para organização, análise e geração de figuras e gráficos; boas práticas na computação científica; ferramentas digitais para fomentar a colaboração entre cientistas; formas de organização de projetos científicos; controle de versões - git e gitHub; “double blind” e “open peer review”; categorias de softwares livres e diferentes tipos de licenças; mídias sociais para divulgação de trabalhos, colaboração online, discussões científicas, perguntas e respostas na internet (por ex. StackOverflow, R-sig-geo, entre outros); presença online; perspectivas para a divulgação e comunicação científica nos próximos anos, entre outros temas relacionados.
 
 **Cronograma proposto**
 
@@ -44,7 +44,7 @@ Assuntos: Como organizar um diretório, sub-diretórios, usar a linha de comando
 
 Trabalho 01 (individual): Linha de comando (criar diretorio, mover, copiar, etc - baseada na aula do pessoal do Software Carpentry - (http://swcarpentry.github.io/shell-novice/)
 
-Trabalho 02 (individual): Baixar dados na internet através de script
+Trabalho 02 (individual): Baixar dados da internet através de script
 
 **Aula 03** - Aquisição, organização, manipulação, arquivamento, disponibilização e recuperação de informações em bancos de dados (teórica e prática)
 Assuntos:  Como organizar uma tabela de dados em forma *tidy*, ferramentas do *tidyverse* para manipulação de dados - http://hadley.nz/, SQL, Bancos de dados NoSQL, formatos para disponibilização de dados,
