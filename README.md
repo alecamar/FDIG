@@ -60,7 +60,7 @@ Assuntos: R, knitR, Markdown, RMarkdown, "literate programing", organização de
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;I wish I&#39;d left this code across scattered .R files instead of combining it into a package&quot; said no one ever <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="http://t.co/udeNH4T67H">http://t.co/udeNH4T67H</a></p>&mdash; David Robinson (@drob) <a href="https://twitter.com/drob/status/611885584584441856?ref_src=twsrc%5Etfw">June 19, 2015</a></blockquote> 
 
-Trabalho 04 (individual): Obtenção de dados na internet, filtragem, análise, geração de figuras e de um relatório de forma reproduzível e através de script.
+Trabalho 04 (individual): Obtenção de dados na internet, filtragem, análise, geração de figuras e de um relatório de forma reprodutível e através de script.
 
 **Aula 05** - Boas práticas na computação científica (teórica)
 Assuntos: Data management, Digital Lab Notebooks (Jupyter, Rmd, etc), Workflow, controle de versão, etc.  
@@ -79,9 +79,9 @@ Trabalho 06 (individual): Trabalho git e gitHub
 
 **Aula 07** - Discussão de propostas de projetos
 
-Assuntos: Discussão sobre as idéias de projetos com os alunos e caminhos a serem seguidos de obtenção de dados, análise de dados, apresentação, etc.
+Assuntos: Discussão sobre as idéias de projetos com os alunos e caminhos a serem seguidos para a obtenção de dados, análise de dados, apresentação, etc.
 
-Trabalho 07 (todos): Ver diversos repositórios no gitHub e ver como se escrever um bom README, postar no página na Wiki do curso, argumentando quais são os principais pontos positivos e negativos. Será publicado na internet posteriormente.
+Trabalho 07 (todos): Ver diversos repositórios no gitHub e ver como se escrever um bom README, postar na página Wiki do curso, argumentando quais são os principais pontos positivos e negativos. Será publicado na internet posteriormente.
 [Wiki](https://docs.google.com/document/d/1ofYoa8K2Inhz5gR_qv0TgSNzf52kHvnHbdAE-dKG__M/edit?usp=sharing)
 
 Trabalho 08: Criar um repositório no gitHub (com README explicando o assunto que será abordado no projeto, e demais informações relevantes)
@@ -102,7 +102,7 @@ Trabalho 10 (todos): Montar um grupo no Mendeley e colocar textos sobre os temas
 
 Assuntos: Como fazer um texto de divulgação científica - super curto, curto, médio e longo, #tags, mídias sociais, etc
 
-Trabalho 11: uma msg no twiter, uma mensagem no facebook, um blog post (médio tamanho) sobre o trabalho que estão desenvolvendo na disciplina, usando #FDIG2021, #FDIG, #UFSCAR e #UFSCAR_LS, #PPGCAm (10% da nota)
+Trabalho 11: uma msg no twiter, uma mensagem no facebook, um blog post (médio tamanho) sobre o trabalho que estão desenvolvendo na disciplina, usando #FDIG2022, #FDIG, #UFSCAR e #UFSCAR_LS, #PPGCAm (10% da nota)
 
 Discussão sobre temas não abordados que serão explorados na aula 12. 
 
