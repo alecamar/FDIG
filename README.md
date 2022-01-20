@@ -4,7 +4,7 @@
 
 Repositório da disciplina optativa FDIG do Centro de Ciências da Natureza, *campus* Lagoa do Sino, UFSCar, disciplina espelho para o PPGCAm.
 
-**Professor responsável: Alexandre Camargo Martensen**
+**Professores responsáveis: Alexandre Camargo Martensen (coordenador), Gabriel Lourenço Brejão e Eduardo Freitas Moreira**
 
 **Será fornecida no primeiro semestre de 2020** Devido a pandemia do COVID-19, esse curso foi adiado e será ministrado no segundo semestre letivo de 2021.
 
